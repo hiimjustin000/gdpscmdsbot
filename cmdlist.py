@@ -15,4 +15,4 @@ async def gdpscmds(ctx):
     Coming soon
     -------------------------------------""")
 
-client.run(token)
+client.run("NjEwNTk5NTIxMTIxOTkyNzA1.XVX13A.hPtsFWLLIKpOaw7TzSyCPHOZOmI")
